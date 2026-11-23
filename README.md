@@ -13,8 +13,8 @@ I work at the intersection of **data, AI agents, and software projects** — and
 ## 🚀 Projects
 | Project | Description | Tech |
 |---|---|---|
-| **KFUPM Career Copilot** | Multi-agent AI career assistant for students | CrewAI, Claude, Gradio, n8n |
-| **Smart Oil-Tank Monitoring** | Senior design: IoT monitoring & control system with a live web dashboard | ESP32, Web dashboard |
+| [**KFUPM Career Copilot**](https://github.com/iOmarz16/career-copilot) | Multi-agent AI career assistant: researches a role, finds CV skill gaps, and emails a 15-day plan | CrewAI, Claude, Gradio, n8n |
+| [**Smart Oil-Tank Monitoring**](https://github.com/iOmarz16/smart-tank-monitoring) | Senior design: ESP32 pressure control with PI, safety trips, early warning and a live dashboard | ESP32, C++, FreeRTOS, Python |
 
 ## 🛠️ Tools & Tech
 Python · C · JavaScript · HTML/CSS · Supabase · Google Cloud · Git/GitHub
